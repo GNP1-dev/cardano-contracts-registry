@@ -1,10 +1,10 @@
 {
-    "projectName": "Cardano Smart Contract Quiz V1000",
+    "projectName": "GNP1 Smart Contract Quiz",
     "labelPrefix": "GNP1Quiz",
-    "website": "https://server-tools.grahamsnumberplus1.com/quiz_V1000/quiz-V1000.html",
+    "website": "https://grahamsnumberplus1.com",
     "twitter": "GNP1pool",
     "discord": "https://discord.gg/Q9B9eQkpWS",
-    "category": "EDUCATIONAL",
+    "category": "TOOLS",
     "contracts": [
       {
         "name": "Quiz V1000 Validator",
